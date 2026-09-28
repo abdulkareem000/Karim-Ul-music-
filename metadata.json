@@ -1,0 +1,10 @@
+{
+  "name": "Karim Ul – AI-Powered Premium Music App",
+  "description": "Premium dark-themed music streaming platform with smart AI Voice DJ curation, live audio visualizer, karaoke vocal isolation, synchronized lyrics, Listen Together sync-play, and studio admin panel.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
